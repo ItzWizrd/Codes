@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/wizrd/Documents/Codes/Python/Manim/media/videos/main/1080p60/partial_movie_files/MinecraftLogoAnimation/1438240492_3241521248_223132457.mp4'
+file 'file:/home/wizrd/Documents/Codes/Python/Manim/media/videos/main/1080p60/partial_movie_files/MinecraftLogoAnimation/1357665722_4217992463_4118503616.mp4'
+file 'file:/home/wizrd/Documents/Codes/Python/Manim/media/videos/main/1080p60/partial_movie_files/MinecraftLogoAnimation/1357665722_2526574901_620732167.mp4'
+file 'file:/home/wizrd/Documents/Codes/Python/Manim/media/videos/main/1080p60/partial_movie_files/MinecraftLogoAnimation/1357665722_4217992463_1371868321.mp4'

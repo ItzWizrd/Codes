@@ -1,0 +1,16 @@
+
+
+.formbox{
+    border: 1px solid black;
+    /* margin-right:80%; */
+    padding: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.forname,.foremail,.forbutton{
+    align-items: center;
+    margin:0%
+}
