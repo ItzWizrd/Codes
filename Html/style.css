@@ -1,16 +1,54 @@
-
-
-.formbox{
-    border: 1px solid black;
-    /* margin-right:80%; */
-    padding: 50px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-.forname,.foremail,.forbutton{
+body {
+  font-family:sans-serif;
+  background-color: #f4f4f4;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+
+  
+}
+.link {
+  text-decoration: none;
+  color: #333;
+  border: 1px;
+  font-weight: 700;
+}
+.link:hover {
+  text-decoration: underline;
+}
+.boxes {
+   width : 100vh;
+  display: flex;
+  height: 150px;
+  justify-content: space-around;
+  margin-top: 20px;
+  border: 2px solid #ff0000;
+}
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.childbox{
+  width: 50px;
+  height: 50px;
+  background-color: #ff0000;
+  display: flex;
+    justify-content: center;
     align-items: center;
-    margin:0%
+}
+
+.box:hover{
+  text-decoration: underline;
 }
